@@ -1,7 +1,3 @@
 <?php
 echo "2";
-
-
-ssssssssssssssss
-
-add 1
+echo "3";
