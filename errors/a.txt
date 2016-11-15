@@ -6,10 +6,11 @@ echo 5
 echo 6
 echo 7
 echo 8
-echo 9 
+echo 9
 echo 11
 echo 12
-echo 177 
-echo 14   
-
+echo 177
+echo 14
+echo 1289
+echo 1289
 echo 1289
