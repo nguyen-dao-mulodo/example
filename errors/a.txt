@@ -11,6 +11,9 @@ echo 11
 echo 12
 echo 177
 echo 14
-echo 1289
-echo 1289
+echo 1111
+echo 2222
+echo 0000
+echo 3333
+echo 4444
 echo 1289
